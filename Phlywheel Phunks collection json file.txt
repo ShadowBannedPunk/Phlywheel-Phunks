@@ -1,0 +1,553 @@
+{
+  "name": "Phlywheel Phunks",
+  "description": "Collection of 18 alternative Phunks, the Phlywheel Phunks were inspired by both the economic flywheel and color wheel. Using only the primary and secondary colors to create a collection of 18 pieces that each include 2 primary and the resulting secondary color when combined, while the animation represents a repetitive cycle",
+  "total_supply": "18",
+  "logo_image_uri": "esc://ethscriptions/0xc68643165f86f2fb65563c05f0ebee02c8f658b388e4a2f94647782611724c04/data",
+  "banner_image_uri": "esc://ethscriptions/0x0c0661cdd244aeea6ff27819a3e6acccc69bc2813aa46825161f9ba1e4d1cfdd/data",
+  "background_color": "#C3FF00",
+  "twitter_link": "https://twitter.com/phunkn1",
+  "website_link": "",
+  "discord_link": "",
+  "collection_items": [
+    {
+      "ethscription_id": "0xc68643165f86f2fb65563c05f0ebee02c8f658b388e4a2f94647782611724c04",
+      "name": "Phlywheel Phunk #1",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 1,
+      "item_attributes": [
+        {
+          "value": "Check",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "blue-yellow",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "green",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk animated"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x80926f5749054c7593400c9d442796545528ab5f2ea716cf66a9831eb7089643",
+      "name": "Phlywheel Phunk #2",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 2,
+      "item_attributes": [
+        {
+          "value": "check",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "green",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "blue-yellow",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xb5231b679dd0fb2fb88879e91e3198bb2a130af6dd7b14c3b9ee14d50fa0f200",
+      "name": "Phlywheel Phunk #3",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 3,
+      "item_attributes": [
+        {
+          "value": "check",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "red-yellow",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "orange",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xc3ac4b92d05e3fe4ad43de3c8fec4c7d0b29431db547118fb0fe071d08ef29c6",
+      "name": "Phlywheel Phunk #4",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 4,
+      "item_attributes": [
+        {
+          "value": "check",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "orange",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "red-yellow",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x7218415d68e7f2ded81716c1c23f2c51a56c0df0e07ef0a144b4cdfad31e7036",
+      "name": "Phlywheel Phunk #5",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 5,
+      "item_attributes": [
+        {
+          "value": "check",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "blue-red",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "purple",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x6a378c1f3d2d2ed56b103599c241b34e4035370c89e138a19007d199767257c6",
+      "name": "Phlywheel Phunk #6",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 6,
+      "item_attributes": [
+        {
+          "value": "check",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "purple",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "blue-red",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x5b913e81562a9c2c06fa312880548ffec01e6dfa5453b601e261958269be2db6",
+      "name": "Phlywheel Phunk #7",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 7,
+      "item_attributes": [
+        {
+          "value": "horizontal",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "blue-yellow",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "green",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xc5b4d60d88800debe8109729b3b57f5d08a595ff1264641f0b8c5f07b1af1116",
+      "name": "Phlywheel Phunk #8",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 8,
+      "item_attributes": [
+        {
+          "value": "horizontal",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "green",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "blue-yellow",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x8378c7f5e6067125aa1d0ae256d89822d3c841c76d67d15bf9674c40e756a074",
+      "name": "Phlywheel Phunk #9",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 9,
+      "item_attributes": [
+        {
+          "value": "horizontal",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "red-yellow",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "orange",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x69a2de17d2d922d48c47bb9407506a3d42b5e223386590c918e031c7d1418d19",
+      "name": "Phlywheel Phunk #10",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 10,
+      "item_attributes": [
+        {
+          "value": "horizontal",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "orange",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "red-yellow",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x7e6cdee4074bd370feb6818ff406340dcfcc2e64ca040a5ec0e92ac9dd143a33",
+      "name": "Phlywheel Phunk #11",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 11,
+      "item_attributes": [
+        {
+          "value": "horizontal",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "blue-red",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "purple",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x1b88a101a45c0ab834365c191ae5f35c1e1604386c3b87de856488f7092f4aa6",
+      "name": "Phlywheel Phunk #12",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 12,
+      "item_attributes": [
+        {
+          "value": "horizontal",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "purple",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "blue-red",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xf01e65694030bc9b554678cb5ac135b037c77bbf9c37b92258109435ea20c85f",
+      "name": "Phlywheel Phunk #13",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 13,
+      "item_attributes": [
+        {
+          "value": "vertical",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "blue-yellow",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "green",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xe9b1b83d269165c7e0932b189520cc2610e517b9d965abf5bc309b06bb5362e3",
+      "name": "Phlywheel Phunk #14",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 14,
+      "item_attributes": [
+        {
+          "value": "vertical",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "green",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "blue-yellow",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x9b5a9d1340bfa29356b37208c35557e8afba3a059390f449350502caddd400ac",
+      "name": "Phlywheel Phunk #15",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 15,
+      "item_attributes": [
+        {
+          "value": "vertical",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "red-yellow",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "orange",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xe4b1f177ea6339f2e1c2ca56bf4d5a20298e3aab1004dbd2456a64548fac9cc8",
+      "name": "Phlywheel Phunk #16",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 16,
+      "item_attributes": [
+        {
+          "value": "vertical",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "orange",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "red-yellow",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x8c0f5e71968536238a7f02fa3a41fecbcba8687682ab19b3312dff7baa875103",
+      "name": "Phlywheel Phunk #17",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 17,
+      "item_attributes": [
+        {
+          "value": "vertical",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "none",
+          "trait_type": "background"
+        },
+        {
+          "value": "blue-red",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "purple",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x4ffd448ff0f97e0e83e3490fa32bea0db5a6da643f68c6b084f422ed74819652",
+      "name": "Phlywheel Phunk #18",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 18,
+      "item_attributes": [
+        {
+          "value": "vertical",
+          "trait_type": "pattern"
+        },
+        {
+          "value": "purple",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "none",
+          "trait_type": "phlywheel phunk"
+        },
+        {
+          "value": "blue-red",
+          "trait_type": "animated phlywheel phunk"
+        }
+      ]
+    }
+  ]
+}
